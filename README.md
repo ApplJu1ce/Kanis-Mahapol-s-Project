@@ -27,7 +27,7 @@ This section highlights core projects completed during my Computer Engineering d
 
 * **Skills:** Working with database through writing API, Backend Development with Node.js, System Integration, Working as a team with 11 people.
 * **Project Focus:** Full-stack collaboration to build a functioning, database-backed mobile application, focusing on efficient data schema design and API communication.
-* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/trip-app-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/slept-de-night/KuJaTew_backend)
 
 ### 3. Fruit Quality Classification using CNN
 
