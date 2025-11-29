@@ -5,14 +5,14 @@
 
 ---
 
-### 🔗 Contact & Professional Links
+### Contact & Professional Links
 * **Email:** mahapolkanis@gmail.com
 * **Location:** Bangkok, Thailand
 * **LinkedIn:** [Your LinkedIn URL, if created]
 
 ---
 
-## 🛠️ Key Academic Project Showcase
+## Key Academic Project Showcase
 
 This section highlights core projects completed during my Computer Engineering degree. These repositories demonstrate foundational skills in data management, machine learning implementation, and backend development.
 
