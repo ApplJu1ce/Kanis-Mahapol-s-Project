@@ -1,6 +1,6 @@
 # Kanis Mahapol: Data Engineering & Software Solutions
 
-## Undergraduate Computer Engineering Student | GPAX 3.54
+## Undergraduate Computer Engineering Student
 * **Focus:** Fundamental experience in Data Transformation, Python/Pandas data pre-processing, and Database Design.
 
 ---
