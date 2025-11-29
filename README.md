@@ -21,18 +21,18 @@ This section highlights core projects completed during my Computer Engineering d
 
 * **Skills:** Data Cleaning using Pandas, Working with small-medium sized data: 78M rows, SVD++ Implementation.
 * **Project Focus:** Designing and implementing a robust data cleaning pipeline to handle large, sparse datasets and improve prediction accuracy by filtering noise.
-* **Repository Link:** [View Full Project Details and Architecture](https://github.com/ApplJu1ce/movie-rec-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/movie-rec-repo/blob/main/README.md)
 
 ### 2. Backend & Database System: KU-JATEAW Trip Planning App
 
 * **Skills:** Working with database through writing API, Backend Development with Node.js, System Integration, Working as a team with 11 people.
 * **Project Focus:** Full-stack collaboration to build a functioning, database-backed mobile application, focusing on efficient data schema design and API communication.
-* **Repository Link:** [View Full Project Details and Schema](https://github.com/ApplJu1ce/trip-app-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/trip-app-repo/blob/main/README.md)
 
 ### 3. Fruit Quality Classification using CNN
 
 * **Skills:** Deep Learning (CNN), Image Data Transformation (Resizing, Normalization), Data Classification.
 * **Project Focus:** Implementing data preprocessing techniques essential for machine learning models, specifically handling unstructured image data for classification tasks.
-* **Repository Link:** [View Full Project Details and Methodology](https://github.com/ApplJu1ce/fruit-class-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/fruit-class-repo/blob/main/README.md)
 
 ---
