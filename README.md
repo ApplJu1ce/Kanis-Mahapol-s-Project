@@ -33,6 +33,6 @@ This section highlights core projects completed during my Computer Engineering d
 
 * **Skills:** Deep Learning (CNN), Image Data Transformation (Resizing, Normalization), Data Classification.
 * **Project Focus:** Implementing data preprocessing techniques essential for machine learning models, specifically handling unstructured image data for classification tasks.
-* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/fruit-class-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/DeppLearningFinalProject_FruitTypeAndFreshnessClassification)
 
 ---
