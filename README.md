@@ -21,7 +21,7 @@ This section highlights core projects completed during my Computer Engineering d
 
 * **Skills:** Data Cleaning using Pandas, Working with small-medium sized data: 78M rows, SVD++ Implementation.
 * **Project Focus:** Designing and implementing a robust data cleaning pipeline to handle large, sparse datasets and improve prediction accuracy by filtering noise.
-* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/movie-rec-repo/blob/main/README.md)
+* **Repository Link:** [View Full Project Details](https://github.com/ApplJu1ce/Movies-Len-Recommendation-with-SVD-78m-Rows)
 
 ### 2. Backend & Database System: KU-JATEAW Trip Planning App
 
